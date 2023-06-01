@@ -5,9 +5,6 @@
 Hi guys, I'm **Leonce Nshuti**. I am Data Engineer based in Nashville, Tennessee. I'm currently working at UBS as a Data engineer.  
 I have some professional experience with **Python**, **Node.js** and **AWS**, let's work together on some projects!
 
-## 📫 Contact Me 
- ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
-
 ## 💡 Projects with My Work
 
 - [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
